@@ -1,6 +1,7 @@
 Graph Neural Networks course (WIP)
 
 [Lecture 1 - Intro](\lectures\lecture1)
+
 [Lecture 2 - NoNN Methods](\lectures\lecture2)
 
 
