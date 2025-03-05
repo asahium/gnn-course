@@ -5,17 +5,17 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 ## 📖 Course Materials
 
 ### Lectures
-- **[Lecture 1 - Introduction](lectures/lecture1.pdf)**
-- **[Lecture 2 - Non-Neural Network Methods](lectures/lecture2.pdf)**
-- **[Lecture 3 - Embeddings on Graphs, Random Walk and node2vec](lectures/lecture3.pdf)**
-- **[Lecture 4 - PageRank and Laplasian](lectures/lecture4.pdf)**
+- **[Lecture 1 - Introduction](lectures/lecture01.pdf)**
+- **[Lecture 2 - Non-Neural Network Methods](lectures/lecture02.pdf)**
+- **[Lecture 3 - Embeddings on Graphs, Random Walk and node2vec](lectures/lecture03.pdf)**
+- **[Lecture 4 - PageRank and Laplasian](lectures/lecture04.pdf)**
 
 ### Seminars
-- **[Seminar 0-1 - Introduction](seminars/sem01-intro.ipynb)**
-- **[Seminar 2 - Embeddings](seminars/sem02-embedding-training.ipynb)**
+- **[Seminar 0-1 - Introduction](seminars/seminar01-intro.ipynb)**
+- **[Seminar 2 - Embeddings](seminars/seminar02-embedding-training.ipynb)**
 
 ### Homework
-- **[Theory HW 1](homeworks/theory/hw1.pdf)**
+- **[Theory HW 1](homeworks/theory/hw01-theory.pdf)**
 
 ## 📚 Course Foundations
 This course is largely inspired by:
