@@ -19,8 +19,8 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 - **[Theory HW 1](homeworks/theory/hw01-theory.pdf)**
 - **[Theory HW 2](homeworks/theory/hw02-theory.pdf)**
 - **[Theory HW 3](homeworks/theory/hw03-theory.pdf)**
-- **[Practice HW 1](homeworks/practice/hw01-practice.pdf)**
-- **[Practice HW 1](homeworks/practice/hw01-practice.pdf)**
+- **[Practice HW 1](homeworks/practice/hw01-practice.ipynb)**
+- **[Practice HW 2](homeworks/practice/hw02-practice.ipynb)**
 
 ## 📚 Course Foundations
 This course is largely inspired by:
