@@ -14,7 +14,7 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 ### Seminars
 - **[Seminar 0-1 - Introduction](seminars/seminar01-intro.ipynb)**
 - **[Seminar 2 - Embeddings](seminars/seminar02-embedding-training.ipynb)**
-- **[Seminar 2 - Pagerank](seminars/seminar03-pagerank.ipynb)**
+- **[Seminar 3 - Pagerank](seminars/seminar03-pagerank.ipynb)**
 
 ### Homeworks
 - **[Theory HW 1](homeworks/theory/hw01-theory.pdf)**
