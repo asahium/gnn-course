@@ -29,6 +29,7 @@ For further exploration, check out the following useful links:
 - **[Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)** – Lectures on the mathematical foundations of deep learning on graphs
 - **[Network Science Book](https://networksciencebook.com/)** – Comprehensive textbook on network analysis
 - **[Graph Pooling](https://gnn-pooling.notion.site/1-3-pooling-in-graph-neural-networks)** – Overview of pooling methods in GNNs
+- **[GNN-101](https://visual-intelligence-umn.github.io/GNN-101/)** - Very good GNN visualisation
 
 ## 🚀 Stay Tuned
 This course is a work in progress (WIP), and more materials will be added over time. Stay updated by watching this repository!
