@@ -10,7 +10,7 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 - **[Lecture 3 - Embeddings on Graphs, Random Walk and node2vec](lectures/lecture03.pdf)**
 - **[Lecture 4 - PageRank and Laplasian](lectures/lecture04.pdf)**
 - **[Lecture 5 - GNN-1](lectures/lecture05.pdf)**
-- **[Lecture 5 - GNN-2](lectures/lecture06.pdf)**
+- **[Lecture 6 - GNN-2](lectures/lecture06.pdf)**
 
 ### Seminars
 - **[Seminar 0-1 - Introduction](seminars/seminar01-intro.ipynb)**
