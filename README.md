@@ -15,6 +15,8 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 - **[Lecture 8 - Pooling in GNNs](lectures/lecture08.pdf)**
 - **[Lecture 9 - Reasoning over Knowledge Graphs](lectures/lecture09.pdf)**
 - **[Lecture 10 - Theoretical Motivations](lectures/lecture010.pdf)**
+- **[Lecture 11 - RecSys]()**
+- **[Lecture 12 - Generative Graph Models]()**
 
 ### Seminars
 - **[Seminar 0-1 - Introduction](seminars/seminar01-intro.ipynb)**
