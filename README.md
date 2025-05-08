@@ -21,8 +21,8 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 - **[Seminar 2 - Embeddings](seminars/seminar02-embedding-training.ipynb)**
 - **[Seminar 3 - Pagerank](seminars/seminar03-pagerank.ipynb)**
 - **[Seminar 6 - Message Passing](seminars/seminar06-message-passing.ipynb)**
-- **[Seminar 6 - Heterographs](seminars/seminar07-hetero-graphs.ipynb)**
-- **[Seminar 6 - Batching for GNNs](seminars/seminar10-batching.ipynb)**
+- **[Seminar 7 - Heterographs](seminars/seminar07-hetero-graphs.ipynb)**
+- **[Seminar 10 - Batching for GNNs](seminars/seminar10-batching.ipynb)**
 
 ### Homeworks
 - **[Theory HW 1](homeworks/theory/hw01-theory.pdf)**
