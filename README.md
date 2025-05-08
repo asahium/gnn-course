@@ -11,12 +11,18 @@ Welcome to the **Graph Neural Networks (GNNs) Course** repository! This course c
 - **[Lecture 4 - PageRank and Laplasian](lectures/lecture04.pdf)**
 - **[Lecture 5 - GNN-1](lectures/lecture05.pdf)**
 - **[Lecture 6 - GNN-2](lectures/lecture06.pdf)**
+- **[Lecture 7 - Knowledge Graphs](lectures/lecture07.pdf)**
+- **[Lecture 8 - Pooling in GNNs](lectures/lecture08.pdf)**
+- **[Lecture 9 - Reasoning over Knowledge Graphs](lectures/lecture09.pdf)**
+- **[Lecture 10 - Theoretical Motivations](lectures/lecture010.pdf)**
 
 ### Seminars
 - **[Seminar 0-1 - Introduction](seminars/seminar01-intro.ipynb)**
 - **[Seminar 2 - Embeddings](seminars/seminar02-embedding-training.ipynb)**
 - **[Seminar 3 - Pagerank](seminars/seminar03-pagerank.ipynb)**
 - **[Seminar 6 - Message Passing](seminars/seminar06-message-passing.ipynb)**
+- **[Seminar 6 - Heterographs](seminars/seminar07-hetero-graphs.ipynb)**
+- **[Seminar 6 - Batching for GNNs](seminars/seminar10-batching.ipynb)**
 
 ### Homeworks
 - **[Theory HW 1](homeworks/theory/hw01-theory.pdf)**
